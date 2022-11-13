@@ -10,6 +10,7 @@
     },
     "require": {
         "slim/slim": "4.11.0",
-        "slim/psr7": " ^1.6"
+        "slim/psr7": " ^1.6",
+        "php-di/php-di": "^6.4"
     }
 }
