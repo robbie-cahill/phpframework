@@ -5,15 +5,9 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CipherCode\\Phpframework\\": "src/"
+            "Framework\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Robbie Cahill",
-            "email": "cipher-code@users.noreply.github.com"
-        }
-    ],
     "require": {
         "slim/slim": "4.11.0",
         "slim/psr7": " ^1.6"
