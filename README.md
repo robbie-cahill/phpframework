@@ -13,4 +13,4 @@ php -S localhost:8080 -t public public/index.php
 ```
 
 #### Build it yourself
-Read the article here: https://softwareengineeringstandard.com/2022/11/15/build-your-own-php-framework-step-by-step-part-1/
+Read the article here to see how this was built and how you can build it yourself from scratch: https://softwareengineeringstandard.com/2022/11/15/build-your-own-php-framework-step-by-step-part-1/
