@@ -1,6 +1,10 @@
 #### PHP Framework
 A DIY PHP Framework
 
+#### Prerequisites
+- PHP 8.1 or later
+- `composer` for dependencies
+
 #### Basic setup
 Install composer dependencies
 ```
